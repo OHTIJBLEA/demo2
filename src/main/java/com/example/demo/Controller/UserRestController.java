@@ -1,6 +1,9 @@
 package com.example.demo.Controller;
 
 
+import com.example.demo.DTO.User;
+import com.example.demo.Service.Service;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -9,25 +12,16 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.List;
 
 @RestController
 @RequiredArgsConstructor
 public class UserRestController {
-    String users;
+    private final Service service;
 
     @GetMapping("/fucking-present")
-    public String getJsonFormat() {
-        getUsersFromJson2();
-        return users;
-    }
-
-    public void getUsersFromJson2() {
-        try {
-            users = Files.readString(Paths.get("src/main/java/com/example/demo/DTO/users.json"), StandardCharsets.UTF_8);
-            System.out.println(users);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+    public List<User> getJsonFormat() {
+        return service.getListUser(service.getUsersFromJson());
     }
 }
 
