@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "name": "Candy",
+    "email": "sonyaclements@quonata.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Howell",
+        "email": "mendozarichards@eclipto.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Zytrex",
+            "address": {
+              "id": 0,
+              "address": "Miller Avenue",
+              "index": 686230
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Klein",
+    "email": "beverleybell@exoblue.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Battle",
+        "email": "virginiaanthony@concility.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Vendblend",
+            "address": {
+              "id": 0,
+              "address": "Florence Avenue",
+              "index": 575156
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kari",
+    "email": "hornemcintosh@tourmania.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Adkins",
+        "email": "charlenebaxter@emoltra.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Proxsoft",
+            "address": {
+              "id": 0,
+              "address": "Canda Avenue",
+              "index": 493414
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "June",
+    "email": "helgacarney@entropix.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Irene",
+        "email": "kramerwitt@nexgene.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Zenolux",
+            "address": {
+              "id": 0,
+              "address": "Newkirk Placez",
+              "index": 818958
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alvarado",
+    "email": "tanyamccoy@fuelworks.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Webb",
+        "email": "elmabuck@zomboid.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Fuelton",
+            "address": {
+              "id": 0,
+              "address": "Reed Street",
+              "index": 573894
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bette",
+    "email": "georgeowens@omatom.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Graciela",
+        "email": "jewelhamilton@duflex.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Proflex",
+            "address": {
+              "id": 0,
+              "address": "Ryder Street",
+              "index": 556541
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Christian",
+    "email": "vaughnford@aclima.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Mccall",
+        "email": "grantdavis@dyno.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Genmex",
+            "address": {
+              "id": 0,
+              "address": "McDonald Avenue",
+              "index": 354917
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Susanne",
+    "email": "cohenmiddleton@talae.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Lisa",
+        "email": "albagregory@lumbrex.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Dreamia",
+            "address": {
+              "id": 0,
+              "address": "Stone Avenue",
+              "index": 674614
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Aisha",
+    "email": "mindypotter@olympix.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Lambert",
+        "email": "willamiles@sultraxin.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Kog",
+            "address": {
+              "id": 0,
+              "address": "Pioneer Street",
+              "index": 721175
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "French",
+    "email": "tamijames@petigems.com",
+    "friendsList": [
+      {
+        "id": 0,
+        "name": "Allen",
+        "email": "sherribird@xerex.com",
+        "companyList": [
+          {
+            "id": 0,
+            "name": "Terascape",
+            "address": {
+              "id": 0,
+              "address": "Drew Street",
+              "index": 143135
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
